@@ -6,7 +6,7 @@ Paper submitted to Pattern Recognition Letters. Preprint available at arXiv:
 
 ### Required python packages
 
-- cvxpy (needs solver such as CVXOPT)
+- cvxpy (needs a solver such as CVXOPT)
 - numpy
 - pandas
 - matplotlib
