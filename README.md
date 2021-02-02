@@ -29,9 +29,8 @@ The figures in the paper can be reproduced using the associated notebooks as in 
 @article{Mochaourab2021,
   title = {Robust Explanations for Private Support Vector Machines},
   author = {Rami Mochaourab and Sugandh Sinha and Stanley Greenstein and Panagiotis Papapetrou},
-  journal = {Corr},
-  url = {},
-  volume = {abs/},
-  year = {2021}
+  journal = {Pattern Recognition Letters},
+  year = {2021},
+  note = {submitted}
 }
 ```
