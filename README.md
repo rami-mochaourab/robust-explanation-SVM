@@ -1,7 +1,7 @@
 # Robust Explanations for Private Support Vector Machines
 
 
-Paper submitted to Pattern Recognition Letters. Preprint available at arXiv:
+Paper submitted to Pattern Recognition Letters. Preprint will be available at arXiv soon.
 
 
 ### Required python packages
