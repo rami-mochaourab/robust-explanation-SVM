@@ -1,7 +1,6 @@
 # Robust Explanations for Private Support Vector Machines
 
-
-Paper submitted to Pattern Recognition Letters. Preprint is available at arXiv: https://arxiv.org/abs/2102.03785.
+Paper under review. ArXiv version available at https://arxiv.org/abs/2102.03785.
 
 
 ### Required python packages
@@ -23,14 +22,4 @@ The figures in the paper can be reproduced using the associated notebooks as in 
 | Single Counterfactual Explanation | 4             |
 | Tradeoffs with Probability        | 5(b)          |
 
-### Citation
 
-```
-@article{Mochaourab2021,
-  title = {Robust Explanations for Private Support Vector Machines},
-  author = {Rami Mochaourab and Sugandh Sinha and Stanley Greenstein and Panagiotis Papapetrou},
-  journal = {Pattern Recognition Letters},
-  year = {2021},
-  note = {submitted}
-}
-```
