@@ -1,6 +1,6 @@
 # Robust Explanations for Private Support Vector Machines
 
-R. Mochaourab, S. Sinha, S. Greenstein, and P. Papapetrou, “(Robust Counterfactual Explanations for Privacy-Preserving SVM)[http://urn.kb.se/resolve?urn=urn%3Anbn%3Ase%3Ari%3Adiva-55465],” International Conference on Machine Learning (ICML 2021), Workshop on Socially Responsible Machine Learning, Jul. 2021. ArXiv version available at https://arxiv.org/abs/2102.03785.
+R. Mochaourab, S. Sinha, S. Greenstein, and P. Papapetrou, “[Robust Counterfactual Explanations for Privacy-Preserving SVM](http://urn.kb.se/resolve?urn=urn%3Anbn%3Ase%3Ari%3Adiva-55465),” International Conference on Machine Learning (ICML 2021), Workshop on Socially Responsible Machine Learning, Jul. 2021. ArXiv version available at https://arxiv.org/abs/2102.03785.
 
 
 ### Required python packages
