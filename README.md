@@ -22,6 +22,7 @@ The figures in the paper can be reproduced using the associated notebooks as in 
 | Single Counterfactual Explanation | 4             |
 | Tradeoffs with Probability        | 5(b)          |
 
+### Citation
 
 ```
 @inproceedings{Mochaourab1581005,
