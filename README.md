@@ -1,4 +1,4 @@
-# Robust Explanations for Private Support Vector Machines
+# Robust Counterfactual Explanations for Privacy-Preserving SVM
 
 ArXiv version available at https://arxiv.org/abs/2102.03785.
 
